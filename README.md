@@ -1,1 +1,5 @@
-# ALU-UNIT
+An Arithmetic Logic Unit (ALU) is a fundamental building block of a computer’s central processing unit (CPU). It performs both arithmetic operations, such as addition and subtraction, and logical operations, like AND, OR, XOR, and shifting. The ALU takes binary inputs and, depending on the control signals, produces a result along with status flags such as Carry/Overflow and Zero.
+
+In this project, a 4-bit ALU is designed and simulated using Logisim Evolution, a digital logic simulator. The ALU accepts two 4-bit inputs and allows the selection of various operations through control signals. By combining full adders, logic gates, and multiplexers, the ALU executes arithmetic and logical functions efficiently. This project demonstrates the practical implementation of combinational circuits, micro-operations, and data manipulation, which are key concepts in computer organization and digital systems.
+
+The simulation of this ALU allows verification of its functionality, including correct computation, flag generation, and logical shifting, making it an effective tool for understanding digital circuit design and computer arithmetic.
